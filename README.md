@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @casaam
-- 👀 I’m interested in ...Data Analytics
-- 🌱 I’m currently learning ...Data certifications
-- 💞️ I’m looking to collaborate on ... working with Data
+- 👀 I’m interested in ...Cloud 
+- 🌱 I’m currently learning ...Linux and Cloud environment
+- 💞️ I’m looking to collaborate on ... working with Cloud 
 - 📫 How to reach me ...
 
 <!---
